@@ -1,1 +1,1 @@
-# Scrimba-mod1-challenge
+# Scrimba-mod2-challenge
